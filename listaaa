@@ -7,25 +7,25 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1,4 alcance tv
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1,5 iptvtools_6
+#EXTINF:-1,5 AMX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1,6 ANGELTV
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1,7 ANTENATV CHIH
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1,8 B15
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,9 BLOOMBERG NEW
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,iptvtools_16
+#EXTINF:-1,10 YUCATAN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,11 DW T
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1,12 TV 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,13 VA+
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,13 28 TV
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 
 #EXTINF:-1,iptvtools_26
@@ -405,8 +405,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.
 
 
 
-#EXTINF:-1,iptvtools_297
-https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u
+
 #EXTINF:-1,iptvtools_699
 https://v3.playerlatino.live/stream/m3u8/399
 
