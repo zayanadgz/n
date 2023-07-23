@@ -465,10 +465,8 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.easte
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.extreme.eastern.us.m3u8
 #EXTINF:-1,iptvtools_294
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1,iptvtools_295
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1,iptvtools_296
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.family.zone.eastern.us.m3u8
+
+
 #EXTINF:-1,iptvtools_297
 https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u
 #EXTINF:-1,iptvtools_699
