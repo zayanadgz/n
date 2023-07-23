@@ -3,11 +3,11 @@
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1,2
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,3 iptvtools_4
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1,alcance tv
+#EXTINF:-1,4 alcance tv
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1,5 iptvtools_6
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1,iptvtools_7
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
@@ -193,17 +193,16 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 
 
-#EXTINF:-1,iptvtools_3
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,iptvtools_5
+
+#EXTINF:-1,LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1,TV
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1,FORO TV
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1,N+
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1,GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1,iptvtools_15
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
@@ -217,47 +216,43 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1,iptvtools_25
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_26
+#EXTINF:-1,TIGO ESPORT
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_27
+#EXTINF:-1,REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_28
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
 #EXTINF:-1,iptvtools_29
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,iptvtools_34
+#EXTINF:-1,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,iptvtools_36
+#EXTINF:-1,MILENIO REPETIDO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1,iptvtools_37
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1,iptvtools_38
+
+#EXTINF:-1,TELEMAX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,MULTIMEDIOS 6
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_40
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,iptvtools_41
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1,iptvtools_44
+
+
+#EXTINF:-1,57TV
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1,ESTRELLAS TV X2
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,iptvtools_47
+#EXTINF:-1,RCN ESTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,iptvtools_48
+#EXTINF:-1,RCN
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1,TELE MUNDO CALIFORNIA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1,iptvtools_53
+#EXTINF:-1,TELE 11
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1,CANAL 34 HD
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1,iptvtools_56
+#EXTINF:-1,TVMAX DEPRTES
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1,iptvtools_57
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1,iptvtools_59
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
@@ -267,8 +262,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1,iptvtools_62
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
-#EXTINF:-1,iptvtools_63
-https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+
 #EXTINF:-1,iptvtools_64
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1,iptvtools_65
@@ -277,21 +271,19 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 http://181.189.243.254:8000/play/a0oh/index.m3u8
 #EXTINF:-1,iptvtools_67
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,iptvtools_72
-https://marine2.miplay.cl/24horas/playlist.m3u8
-#EXTINF:-1,iptvtools_73
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
-#EXTINF:-1,iptvtools_74
+
+
+#EXTINF:-1,CANAL 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
-#EXTINF:-1,iptvtools_75
+#EXTINF:-1,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,iptvtools_76
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1,iptvtools_77
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1,JAPON N
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1,CANAL CHIN O JAPONES
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,iptvtools_80
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -303,38 +295,36 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,iptvtools_88
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,iptvtools_89
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1,iptvtools_94
+
+#EXTINF:-1,TNT NOVELAS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
-#EXTINF:-1,iptvtools_97
+#EXTINF:-1,WB TV
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:-1,iptvtools_101
 http://181.189.243.254:8000/play/a0t0/index.m3u8
-#EXTINF:-1,iptvtools_102
+#EXTINF:-1,UNIVESAL CINEMA
 http://181.189.243.254:8000/play/a0v2/index.m3u8
-#EXTINF:-1,iptvtools_103
+#EXTINF:-1,UNIVESAL REALITY
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 #EXTINF:-1,iptvtools_104
 http://181.189.243.254:8000/play/a0ui/index.m3u8
-#EXTINF:-1,iptvtools_106
+#EXTINF:-1,HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
-#EXTINF:-1,iptvtools_107
+#EXTINF:-1,HBO 2
 http://181.189.243.254:8000/play/a0os/index.m3u8
-#EXTINF:-1,iptvtools_108
+#EXTINF:-1,HBO +
 http://181.189.243.254:8000/play/a0ot/index.m3u8
-#EXTINF:-1,iptvtools_109
+#EXTINF:-1,HBO FAMILY
 http://181.189.243.254:8000/play/a0ou/index.m3u8
-#EXTINF:-1,iptvtools_110
+#EXTINF:-1,HBO EXTREM
 http://181.189.243.254:8000/play/a0ov/index.m3u8
-#EXTINF:-1,iptvtools_112
+#EXTINF:-1,CARTON N
 http://45.5.117.182:8000/play/a0en/index.m3u8
-#EXTINF:-1,iptvtools_113
+#EXTINF:-1,CARTOONITO
 http://181.189.243.254:8000/play/a0pa/index.m3u8
-#EXTINF:-1,iptvtools_114
+#EXTINF:-1,TOONCAST
 http://181.189.243.254:8000/play/a0s3/index.m3u8
-#EXTINF:-1,iptvtools_115
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
+
 #EXTINF:-1,iptvtools_126
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1,iptvtools_134
@@ -345,16 +335,8 @@ http://45.228.234.162:24000/play/a08l/index.m3u8
 http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1,iptvtools_137
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1,iptvtools_141
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
-#EXTINF:-1,iptvtools_142
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
-#EXTINF:-1,iptvtools_145
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
-#EXTINF:-1,iptvtools_146
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
-#EXTINF:-1,iptvtools_147
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
+
+
 #EXTINF:-1,iptvtools_151
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1,iptvtools_152
@@ -375,8 +357,7 @@ https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/ind
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 #EXTINF:-1,iptvtools_238
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
-#EXTINF:-1,iptvtools_240
-https://dai2-playlistserver.aws.syncbak.com/cpl/20965226/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk2NTIyNiIsImNpZCI6MjE4ODgsInNpZCI6MTU4LCJtZDUiOiJjYTU5Nzc4YjUxZjZkNTZjODFmOWZiZjJjZmQzNDNiMiIsImlhdCI6MTY2MDkyOTM0NywiZXhwIjoxNjkyNDY1MzQ3LCJpc3MiOiJTeW5jYmFrIChURykifQ.5heNHIgDbrnFzfBjH4qmNs3sFGUl1iewhcB-Iru-4ok
+
 #EXTINF:-1,iptvtools_241
 https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 #EXTINF:-1,iptvtools_252
@@ -389,80 +370,38 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
 #EXTINF:-1,iptvtools_256
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1,iptvtools_257
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1,iptvtools_258
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.us.m3u8
-#EXTINF:-1,iptvtools_259
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
-#EXTINF:-1,iptvtools_260
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1,iptvtools_261
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1,iptvtools_262
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1,iptvtools_263
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1,iptvtools_264
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1,iptvtools_265
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1,iptvtools_266
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1,iptvtools_267
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1,iptvtools_268
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-#EXTINF:-1,iptvtools_269
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-#EXTINF:-1,iptvtools_270
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1,iptvtools_271
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-#EXTINF:-1,iptvtools_272
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1,iptvtools_273
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.eastern.us.m3u8
-#EXTINF:-1,iptvtools_274
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.edge.eastern.us.m3u8
-#EXTINF:-1,iptvtools_275
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.cinema.eastern.us.m3u8
-#EXTINF:-1,iptvtools_276
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.in.black.eastern.us.m3u8
-#EXTINF:-1,iptvtools_277
-https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.comedy.eastern.us.m3u8
-#EXTINF:-1,iptvtools_278
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.kids.family.eastern.us.m3u8
-#EXTINF:-1,iptvtools_279
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.eastern.us.m3u8
-#EXTINF:-1,iptvtools_280
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.black.eastern.us.m3u8
-#EXTINF:-1,iptvtools_281
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.action.eastern.us.m3u8
-#EXTINF:-1,iptvtools_282
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
-#EXTINF:-1,iptvtools_283
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1,iptvtools_284
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1,iptvtools_285
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/shoxbet.eastern.us.m3u8
-#EXTINF:-1,iptvtools_286
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1,iptvtools_287
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1,iptvtools_288
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1,iptvtools_289
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1,iptvtools_290
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1,iptvtools_291
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1,iptvtools_292
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.eastern.us.m3u8
-#EXTINF:-1,iptvtools_293
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.extreme.eastern.us.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
