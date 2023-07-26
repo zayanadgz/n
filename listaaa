@@ -20,10 +20,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1,TV B N
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1,AGENDA 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-
-
-
+------OTROS----
 
 #EXTINF:-1, telesistemas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
@@ -389,11 +389,13 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 
 
-
+----MUSICA-----
 
 #EXTINF:-1,MUSIC
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1,ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 
 
