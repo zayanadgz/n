@@ -397,15 +397,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 
 ---------NUEVOS----
-#EXTINF:-1, AGUANTE TV
-https://streamtv.intervenhosting.net:3378/hybrid/play.m3u8
 
 
-#EXTINF:-1, L1
-https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
-#EXTINF:-1, L2
-https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 
 
 
