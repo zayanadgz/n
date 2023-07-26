@@ -20,8 +20,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1,TV B N
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1,AGENDA 56 TV
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
 
 ------OTROS----
 
@@ -211,8 +210,9 @@ https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 #EXTINF:-1,CORTV
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
-
-
+--------peliculas---
+#EXTINF:-1,agro tv
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1,TVLOBO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1,CANAL 34 HD
