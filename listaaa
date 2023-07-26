@@ -399,7 +399,82 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 ---------NUEVOS----
 
 
+#EXTINF:-1,5tv
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
+#EXTINF:-1,8
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1,13 maxhd
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+#EXTINF:-1,canal VIDEO
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+
+
+
+#EXTINF:-1,LACANTI TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
+#EXTINF:-1,ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1,A TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+#EXTINF:-1,ATV
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:-1,RED ATERNATIVA
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+#EXTINF:-1,AME 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1,NOVELA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1,AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1,36 CUBA
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1,ANT ANTARES TELEVISION HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1,FORMULA UNO
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+
+#EXTINF:-1,ANTOFAGASTA TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1,CONSTANZA TV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,CUNTRY NEWS CENTER
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+#EXTINF:-1,CPETV HD
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+
+
+
+
+#EXTINF:-1,cTBI
+https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1,CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+
+
+
+#EXTINF:-1,DAN TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:-1,DANCE FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
 
 
