@@ -442,6 +442,142 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1,FORMULA UNO
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1,deportv
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+
+#EXTINF:-1,VE3
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+#EXTINF:-1,DIOSTV
+https://emisoras.hn:8081/diostevetv/playlist.m3u8
+#EXTINF:-1,DIOS KIDS
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,DTV
+https://emisoras.hn:8081/dtv/index.m3u8
+
+
+#EXTINF:-1,ECOTV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+
+#EXTINF:-1,EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1,EDUCANAL
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+
+#EXTINF:-1,EKIZ TV
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+
+
+#EXTINF:-1,elconfidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+
+
+#EXTINF:-1,canal_
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1,SELIO TV ESPACIO
+https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
+
+
+#EXTINF:-1,EL SOL
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+
+#EXTINF:-1,canaL12
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+
+
+
+
+#EXTINF:-1,ED
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+
+#EXTINF:-1,EJTV
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+
+#EXTINF:-1,ESPORTSMAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+
+-----AQUI VOY---
+
+
+
+
+#EXTINF:-1,EXTREMA TV
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1,MULTIPLATLFORMA
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,FSTV
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+
+
+#EXTINF:-1,GDNTV
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+
+#EXTINF:-1,PLAZA TV
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,canal 3
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+
+#EXTINF:-1,HAMAIKA
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,HIT0 CERO DEPORTES
+https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
+#EXTINF:-1,HITS 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1,HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1,HOLVET TV NOV
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,EL CAMINO TV
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,IP NOTICIAS
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
 #EXTINF:-1,ANTOFAGASTA TV
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 
