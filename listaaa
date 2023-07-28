@@ -22,6 +22,11 @@ http://181.189.243.254:8000/play/a0pa/index.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 
+
+#EXTINF:-1,MITV
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+
+
 ------OTROS----
 
 #EXTINF:-1, telesistemas
@@ -612,6 +617,225 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1,DANCE FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
+------------nuevosssssssss NUEVOSSSSS-------
+
+#EXTINF:-1,JNE
+https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8
 
 
 
+#EXTINF:-1,KBEV 6
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1,KERUSSO
+https://emisoras.hn:8081/kerussotv/index.m3u8
+
+#EXTINF:-1,MEDITERRANEO
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+
+
+
+
+
+#EXTINF:-1,CANL 43.1
+https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8
+
+
+#EXTINF:-1,METROTV
+https://emisoras.hn:8081/metrotv/index.m3u8
+
+#EXTINF:-1A3D CHILE
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1,COOTEL
+http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:-1,TELEVISA X2
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1,TP
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+
+#EXTINF:-1,LIMONTV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+
+#EXTINF:-1,MUSIC
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+
+
+#EXTINF:-1,LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+
+
+
+#EXTINF:-1,MALBECPLAY
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+
+
+#EXTINF:-1,MASTV
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+#EXTINF:-1,MASTER VIDEO.TV 
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
+
+#EXTINF:-1,MEGA
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1,MEGA TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+
+#EXTINF:-1,meGatv
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1,MEGAVISION
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1,NOTICIAS MEGA
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+
+
+
+#EXTINF:-1,MIJAS TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,MTNA TV
+https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
+
+#EXTINF:-1,M
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+
+
+
+
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1,NTC
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1,NEGOCIOSTV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+
+#EXTINF:-1,NG FEDERAL
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1,NHK
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+
+
+
+
+
+#EXTINF:-1,Nuevaregion
+http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
+
+
+
+
+
+#EXTINF:-1,canalonce
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+
+
+
+#EXTINF:-1,PELIS T
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+
+
+#EXTINF:-1,OPCION.TV
+https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1,ORBITA95.3
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+#EXTINF:-1,VACION DEPORTE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+
+
+#EXTINF:-1,CNTV INFANTIL
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1,cARI TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,MVS102.5
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1,PROMAR TV
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+
+#EXTINF:-1,PYV ALMERIA
+https://streamer.zapitv.com/ptv_almeria/index.m3u8
+
+#EXTINF:-1,IPTV GRANADA
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+
+
+
+
+
+#EXTINF:-1,Q.hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+
+
+
+#EXTINF:-1,rakuten-actionmovies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,rakuten-comedymovies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,rakuten-tvshows
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,rakuten-family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,rakuten-spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:rdo television
+http://live.mundogo.cl/mundo/RDO/index.m3u8
+
+
+
+#EXTINF:-1,rvision
+https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8
+
+#EXTINF:-1,retro plus music
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,retro plus peli
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1,retro music chido
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+
+#EXTINF:-1,RT
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+
+#EXTINF:-1,MIX
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
