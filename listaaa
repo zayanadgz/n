@@ -782,6 +782,80 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1,SANTE FE CANAL
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1,CL 
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1,SANTIAGO TV
+http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8
+#EXTINF:-1,STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+
+
+#EXTINF:-1,TENTV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1,canaL 16.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,canal 16.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+
+#EXTINF:-1,SEXTAVISION
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+
+
+#EXTINF:-1,10SOL TV
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,somosdeleste
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1,somosnoticias
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+
+
+
+#EXTINF:-1,soyplancha.TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
+
+
+#EXTINF:-1,SUBELA
+https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8
+
+
+
+
+#EXTINF:-1,T-VIENT
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1,TELEUNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+
+#EXTINF:-1,TCTC
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Directo1
+https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
+#EXTINF:-1,teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+
+#EXTINF:-1,telenord
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+
+
 #EXTINF:-1,MVS102.5
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
