@@ -26,6 +26,14 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1,MITV
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
 
+#EXTINF:-1,WOWTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,WOWTV REPETIDO
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+
+#EXTINF:-1,CGTNESPÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
 
 ------OTROS----
 
